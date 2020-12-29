@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/eq-calc/static/css/main.9c0f3462.chunk.css",
+    "main.js": "/eq-calc/static/js/main.d1036073.chunk.js",
+    "main.js.map": "/eq-calc/static/js/main.d1036073.chunk.js.map",
+    "runtime-main.js": "/eq-calc/static/js/runtime-main.a48f0fd2.js",
+    "runtime-main.js.map": "/eq-calc/static/js/runtime-main.a48f0fd2.js.map",
+    "static/js/2.8b0b01f6.chunk.js": "/eq-calc/static/js/2.8b0b01f6.chunk.js",
+    "static/js/2.8b0b01f6.chunk.js.map": "/eq-calc/static/js/2.8b0b01f6.chunk.js.map",
+    "index.html": "/eq-calc/index.html",
+    "precache-manifest.6ca0f70c2ebdbe0baf6d27074a72aaa6.js": "/eq-calc/precache-manifest.6ca0f70c2ebdbe0baf6d27074a72aaa6.js",
+    "service-worker.js": "/eq-calc/service-worker.js",
+    "static/css/main.9c0f3462.chunk.css.map": "/eq-calc/static/css/main.9c0f3462.chunk.css.map",
+    "static/js/2.8b0b01f6.chunk.js.LICENSE.txt": "/eq-calc/static/js/2.8b0b01f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a48f0fd2.js",
+    "static/js/2.8b0b01f6.chunk.js",
+    "static/css/main.9c0f3462.chunk.css",
+    "static/js/main.d1036073.chunk.js"
+  ]
+}
